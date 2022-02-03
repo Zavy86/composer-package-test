@@ -2,7 +2,7 @@
 /**
  * Examples - Index
  *
- * @package Zavy86\Examples
+ * @package Zavy86\ComposerPackageTest\Examples
  * @author Manuel Zavatta <manuel.zavatta@gmail.com>
  */
 
